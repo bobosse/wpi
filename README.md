@@ -1,6 +1,8 @@
 #WPI - Front-End Web Developer
 This repository showscases my knowledge of the front-end development technologies.
 
+View [rendered code](http://goo.gl/4uaSzf)
+
 ###Technologies in use
 * [Git](https://git-scm.com/) / [GitHub](https://github.com/)
 * [Node.js/NPM](https://nodejs.org/en/)
